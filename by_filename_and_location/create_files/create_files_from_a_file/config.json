@@ -1,0 +1,15 @@
+{
+    "numbers": [
+        "50000103840250001",
+        "50000103697030001",
+        "50000103697110001",
+        "50000103699840001",
+        "50000103861520001",
+        "50000102376110001",
+        "50000102410680001",
+        "50000104088810001",
+        "50000102899500001"
+    ],
+    "original_file_path": "H:/dev/python/file-management-utilities/by_filename_and_location/create_files/create_files_from_a_file/file_to_be_copied/unmasked/50000103840250001_01142023_STA_114.pdf",
+    "destination_directory": "H:/dev/python/file-management-utilities/by_filename_and_location/create_files/create_files_from_a_file/output"
+}

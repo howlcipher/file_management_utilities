@@ -1,0 +1,9 @@
+{
+  "destination_directory": "filepath\\here",
+  "file_strings": ["string1", "string2"],
+  "max_files": false,
+  "max_files_value": 10,
+  "months_ago": 12,
+  "additional_string": "_STA",
+  "file_type": ".pdf"
+}

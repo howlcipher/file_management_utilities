@@ -1,0 +1,8 @@
+{
+    "destination_directory": "/path/to/destination/directory",
+    "first_string": ["string1", "string2"],
+    "second_string": "string_to_match",
+    "max_files": true,
+    "max_files_value": 100
+  }
+  

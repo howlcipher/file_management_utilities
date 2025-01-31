@@ -1,0 +1,6 @@
+{
+    "source_directory": "YOUR_SOURCE_DIRECTORY_PATH",
+    "destination_directory": "YOUR_DESTINATION_DIRECTORY_PATH",
+    "limit_files": true,
+    "file_limit": 1
+}

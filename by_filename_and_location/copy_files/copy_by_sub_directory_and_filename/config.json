@@ -1,0 +1,8 @@
+{
+  "source_directory": "/path/to/source/directory",
+  "destination_directory": "/path/to/destination/directory",
+  "first_string": ["string1", "string2"],
+  "second_string": "string3",
+  "max_files": true,
+  "max_files_value": 100
+}

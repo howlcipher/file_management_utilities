@@ -1,0 +1,19 @@
+{
+    "source_directory": "path/to/source/directory",
+    "target_directory": "path/to/target/directory",
+    "base_date": "MMDDYYYY",
+    "strings_to_search": [
+      {
+        "string": "SEARCH_STRING_1",
+        "copies": 1
+      },
+      {
+        "string": "SEARCH_STRING_2",
+        "copies": 2
+      },
+      {
+        "string": "SEARCH_STRING_3",
+        "copies": 3
+      }
+    ]
+}

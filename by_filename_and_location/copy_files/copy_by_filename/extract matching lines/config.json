@@ -1,0 +1,6 @@
+{
+    "input_file": "input.txt",
+    "output_file": "output.txt",
+    "keyword": "Files copied for each file string:",
+    "regex_pattern": "^\\d+:\\s*\\d+$"
+}

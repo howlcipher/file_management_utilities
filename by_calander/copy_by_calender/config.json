@@ -1,0 +1,6 @@
+{
+  "sourceDirectory": "SOURCE_DIRECTORY\\DealerStmt_Archives_${month}-2023",
+  "destinationRoot": "DESTINATION_DIRECTORY\\qa",
+  "monthYears": ["11-2023", "12-2023", "01-2024", "02-2024"],
+  "desired_year": "2024"
+}

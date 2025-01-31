@@ -1,0 +1,6 @@
+{
+    "destination_directory": "/path/to/your/destination/directory",
+    "first_string": ["string1", "string2"],
+    "second_string": "string3"
+  }
+  
